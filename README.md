@@ -1,12 +1,3 @@
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
-<!--  ██╗ █████╗ ████████╗ █████╗ ███╗   ██╗    ██████╗ ██╗   ██╗██████╗ ██╗  -->
-<!--  ██║██╔══██╗╚══██╔══╝██╔══██╗████╗  ██║    ██╔══██╗██║   ██║██╔══██╗██║  -->
-<!--  ██║███████║   ██║   ███████║██╔██╗ ██║    ██████╔╝██║   ██║██████╔╝██║  -->
-<!--  ██║██╔══██║   ██║   ██╔══██║██║╚██╗██║    ██╔═══╝ ██║   ██║██╔══██╗██║  -->
-<!--  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║    ██║     ╚██████╔╝██║  ██║██║  -->
-<!--  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  -->
-<!-- ════════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:1a0533,70:2d1b69,100:0d1b2a&height=300&section=header&text=JATAN%20PURI&fontSize=90&fontColor=00d4ff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%20Automation%20Developer&descAlignY=62&descSize=20&descColor=c77dff&stroke=7b2ff7&strokeWidth=3" />
 </div>
@@ -35,14 +26,13 @@
 
 ## About Me
 
-🚀 Full Stack Developer & AI Automation Engineer
-⚙️ Specialized in scalable backend systems & modern web apps
-🤖 Building AI-powered automation tools using Python & Gemini API
-🌐 Experienced with React, Next.js, Node.js, PostgreSQL & Flutter
-🕷️ Strong background in web scraping & workflow automation
-📍 Based in Karachi, Pakistan
-🎓 BSSE Student at SZABIST Karachi
-💼 Open to remote roles, freelance projects & collaborations
+- **Full Stack Developer** & **AI Automation Engineer**
+- **Location**: Karachi, Pakistan 🇵🇰
+- **Education**: BSSE at SZABIST
+- **Expertise**: Scalable web apps, backend systems, AI automation
+- **Focus**: Clean architecture, AI-driven productivity
+- **Currently**: Building AI SaaS & automation workflows
+- **Available**: Remote roles & freelance projects
 
 ---
 
@@ -73,34 +63,25 @@
 
 <div align="center">
 
-🚀 Featured Projects
-🤖 AI Invoice Extractor
-AI-powered OCR invoice processing system
-Extracts vendor names, totals, dates & line items
-Built using Python, Streamlit & Gemini API
+### 🤖 AI Invoice Extractor
+- AI-powered document processing with OCR + Gemini API
+- Extracts vendor details, invoices, dates, totals
+- Tech: Python, Streamlit, Gemini, OCR
 
-Tech: Python OCR Gemini API Streamlit
+### 🏥 Hospital Management System
+- Enterprise RBAC for doctors, nurses, admins, patients
+- Complex relational schema with audit trails
+- Tech: Node.js, Express, PostgreSQL, React
 
-🏥 Hospital Management System
-Full-stack role-based hospital management platform
-Secure authentication & patient management workflows
-Optimized PostgreSQL relational architecture
+### 📱 Expense Tracker App
+- Cross-platform finance app with real-time tracking
+- Budget analytics, charts, offline-first
+- Tech: Flutter, Dart, Firebase
 
-Tech: React Node.js Express PostgreSQL
-
-📱 Expense Tracker App
-Modern cross-platform personal finance application
-Real-time expense tracking & category analytics
-Smooth Flutter-based mobile experience
-
-Tech: Flutter Dart Firebase
-
-🕷️ Web Scraping Automation Suite
-Automated business data extraction system
-Handles dynamic JavaScript-heavy websites
-Built with scalable scraping workflows
-
-Tech: Python Playwright Selenium
+### 🕷️ Web Scraping Automation Suite
+- Robust data extraction for complex websites
+- Handles JS SPAs, anti-bot patterns
+- Tech: Python, Playwright, Selenium
 
 </div>
 
@@ -138,16 +119,14 @@ Tech: Python Playwright Selenium
 
 ## Freelance Services
 
-Available for **remote contracts**, **freelance gigs**, and **technical consulting**.
-
 <div align="center">
 
-| Service | Description |
-|---------|-------------|
-| 🌐 Full Stack Development | React, Next.js, Node.js — End-to-end web apps, deployed and production-ready |
-| ⚙️ Backend & APIs | REST APIs, PostgreSQL, Auth systems — Architecture and performance optimization |
-| 🤖 AI Automation | OCR, Web Scraping, LLM integrations — Workflow automation bots |
-| 📱 Mobile Apps | Flutter, Dart — iOS & Android cross-platform delivery |
+| Service | Tech Stack |
+|---------|------------|
+| 🌐 Full Stack Web Apps | React, Next.js, Node.js |
+| ⚙️ Backend & APIs | REST, PostgreSQL, Auth |
+| 🤖 AI Automation | OCR, Scraping, LLMs |
+| 📱 Mobile Apps | Flutter, Dart |
 
 </div>
 
