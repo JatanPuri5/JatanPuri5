@@ -15,9 +15,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&color=0a0a0f&labelColor=00d4ff" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jatanpuri5-lab&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=jatanpuri5&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&abbreviated=true" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/jatanpuri5-lab?style=for-the-badge&color=c77dff&labelColor=0a0a0f&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/jatanpuri5?style=for-the-badge&color=c77dff&labelColor=0a0a0f&label=FOLLOWERS" />
 </div>
 
 <br/>
@@ -92,26 +92,26 @@
 <div align="center">
 
 ### Stats Overview
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatanpuri5-lab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=c77dff&text_color=ffffff&ring_color=7b2ff7&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jatanpuri5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&icon_color=c77dff&text_color=ffffff&ring_color=7b2ff7&border_radius=12" />
 
 ### Top Languages
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatanpuri5-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=ffffff&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatanpuri5&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00d4ff&text_color=ffffff&border_radius=12" />
 
 ### Contribution Streak
-<img src="https://streak-stats.demolab.com/?user=jatanpuri5-lab&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7b2ff7&ring=00d4ff&fire=ff6b6b&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=aaaaaa&dates=666666&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=jatanpuri5&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=7b2ff7&ring=00d4ff&fire=ff6b6b&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=c77dff&sideLabels=aaaaaa&dates=666666&border_radius=12" />
 
 ### Activity Graph
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jatanpuri5-lab&theme=tokyo-night&bg_color=0a0a0f&color=00d4ff&line=7b2ff7&point=c77dff&area=true&hide_border=true&area_color=7b2ff720&custom_title=Jatan's%20Contribution%20Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jatanpuri5&theme=tokyo-night&bg_color=0a0a0f&color=00d4ff&line=7b2ff7&point=c77dff&area=true&hide_border=true&area_color=7b2ff720&custom_title=Jatan's%20Contribution%20Graph" />
 
 ### Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatanpuri5-lab/jatanpuri5-lab/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatanpuri5-lab/jatanpuri5-lab/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jatanpuri5-lab/jatanpuri5-lab/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jatanpuri5/jatanpuri5/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jatanpuri5/jatanpuri5/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jatanpuri5/jatanpuri5/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=jatanpuri5-lab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=jatanpuri5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -139,7 +139,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatanpuri5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatanpuri5-lab)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatanpuri5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatanpuri)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com)
 
